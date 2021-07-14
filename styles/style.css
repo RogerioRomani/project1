@@ -1,0 +1,54 @@
+
+figure {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 40px;
+  margin-inline-end: 40px;
+  text-align: center;
+}
+
+img {
+  max-width: 50%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+  }
+  
+li {
+  font-size: 15px;
+  line-height: 1.5;
+  letter-spacing: 1px;
+}
+html {
+  font-size: 15px; 
+  font-family: 'Noto Sans KR', sans-serif;
+  background-color: #b9c8d6;
+  text-align: center;
+  }
+
+h3 {
+    font-size: 1.05em;
+    font-weight: bold;
+}
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+  list-style-type: disc;
+}
+
+p {
+  font-size: 15px;
+  line-height: 1.5;
+  letter-spacing: 1px;
+  max-width: 850px;
+  margin: 0 auto 30px auto;
+  text-align: left;
+}
